@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['C:\\Users\\NAIDU\\.spyder-py3\\temp.py', 'personal_portfolio\\settings.py', 'manage.py', 'hello_world\\views.py', 'personal_portfolio\\urls.py', 'hello_world\\urls.py', 'hello_world\\models.py', 'hello_world\\apps.py', 'personal_portfolio\\templates\\base.html', 'hello_world\\templates\\hello_world\\hello_world.html', 'projects\\urls.py', 'projects\\models.py', 'projects\\views.py', 'projects\\templates\\project_index.html', 'projects\\templates\\project_detail.html']
+recent_files = ['C:\\Users\\NAIDU\\.spyder-py3\\temp.py', 'projects\\urls.py', 'personal_portfolio\\settings.py', 'manage.py', 'hello_world\\views.py', 'personal_portfolio\\urls.py', 'hello_world\\urls.py', 'hello_world\\models.py', 'hello_world\\apps.py', 'personal_portfolio\\templates\\base.html', 'hello_world\\templates\\hello_world\\hello_world.html', 'projects\\models.py', 'projects\\views.py', 'projects\\templates\\project_index.html', 'projects\\templates\\project_detail.html', 'personal_portfolio\\asgi.py']
 
